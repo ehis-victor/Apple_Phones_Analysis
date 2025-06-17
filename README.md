@@ -50,7 +50,7 @@ This analysis demonstrates the importance of data preprocessing and visualizatio
 
 ## 📎 Resources
 
-## - 📘 [View the Jupyter Notebook in this repository] Note: Clone repo and run on jupyter to see full visualizations
+ **📘 [View the Jupyter Notebook in this repository] Note: Clone repo and run on jupyter Notebook to see full visualizations OR copy and paste code directly in jupyter Notebook** 
 - ✍️ [Read the full write-up on Medium](https://medium.com/@ehisvictor09)  
 - 👨‍💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/ekikhalo-victor)  
 - 💻 [Explore more projects on GitHub](https://github.com/ehis-victor)
