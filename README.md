@@ -52,7 +52,7 @@ This analysis demonstrates the importance of data preprocessing and visualizatio
 
 - 📘 [View the Jupyter Notebook in this repository] 
 - ✍️ [Read the full write-up on Medium](https://medium.com/@ehisvictor09)  
-- 👨‍💼 [Connect with me on LinkedIn](www.linkedin.com/in/ekikhalo-victor)  
+- 👨‍💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/ekikhalo-victor)  
 - 💻 [Explore more projects on GitHub](https://github.com/ehis-victor)
 
 ---
